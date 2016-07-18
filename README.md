@@ -165,7 +165,7 @@ Other Useful Articles
 * [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 * [Kubernetes Authentication - OpenID Connect](http://www.devoperandi.com/kubernetes-authentication-openid-connect/) by [Michael Ward](https://twitter.com/DevoperandI)
 * [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by [Michael Ward](https://twitter.com/DevoperandI)
-
+* [Kubernetes: Pilot project by Google for container cluster management](https://www.linkedin.com/pulse/kubernetes-pilot-project-google-container-cluster-management-anand?trk=pulse_spock-articles) by [Priyadarshini Anand](https://www.linkedin.com/in/priyadarshinianand)
 
 
 
